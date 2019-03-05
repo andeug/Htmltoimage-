@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author mspace
+ * @author Andrew
  */
 public class TestRegex {
 
